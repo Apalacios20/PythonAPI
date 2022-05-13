@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 api_keys.py
 __pycache__
+.DS_Store
